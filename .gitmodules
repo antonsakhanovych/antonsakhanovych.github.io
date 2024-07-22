@@ -1,0 +1,3 @@
+[submodule "themes/augo"]
+	path = themes/augo
+	url = git@github.com:antonsakhanovych/augo.git

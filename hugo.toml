@@ -1,0 +1,12 @@
+baseURL = 'antonsakhanovych.github.io'
+languageCode = 'en-us'
+title = 'antonsakhanovych'
+copyright = 'Anton Sakhanovych'
+theme = 'augo'
+[params]
+  linkedin = 'https://www.linkedin.com/in/antonsakhanovych/'
+  github = 'https://github.com/antonsakhanovych'
+
+[markup]
+  [markup.highlight]
+  noClasses = false
